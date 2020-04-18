@@ -12,7 +12,7 @@ Input:<br>
 Output: 1<br><br><br>
 
 =====================<br><br>
-Example 2:<br>
+*Example 2:*<br>
 Input:<br>
 11000<br>
 11000<br>
