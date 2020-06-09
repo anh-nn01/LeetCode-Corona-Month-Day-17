@@ -20,3 +20,6 @@ Input:<br>
 00011<br>
 
 Output: 3<br>
+
+<br><br>
+Solution: Simple Graph DFS, time complexity O(n).
